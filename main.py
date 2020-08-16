@@ -1,6 +1,6 @@
 import requests
 import csv, json ,re ,os
-from bs4 import Beautifulsoup4 
+from bs4 import BeautifulSoup 
 import mechanize
 from random import choice
 user_agents = ['Mozilla/5.0 (X11; U; Linux; i686; en-US; rv:1.6) Gecko Debian/1.6-7',
